@@ -1,0 +1,15 @@
+{
+    "name": "afnan/package",
+    "autoload": {
+        "psr-4": {
+            "Afnan\\Package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "afnanmumu",
+            "email": "afnanalauddin30@gmail.com"
+        }
+    ],
+    "require": {}
+}
